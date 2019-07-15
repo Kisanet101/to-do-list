@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+@media all and (max-width: 900) {
+
+}
+
+@media all and (max-width: 700) {
+
+}
+h1 {
+  text-align: center;
+}
